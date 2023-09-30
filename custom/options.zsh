@@ -1,1 +1,2 @@
 unsetopt HISTVERIFY
+unsetopt BEEP
